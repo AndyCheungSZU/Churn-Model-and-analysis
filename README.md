@@ -1,5 +1,6 @@
 # Churn-model-and-Analysis
 
+$\frac{d^{3} x}{dt^{3}}$
 ## Project description
 
 ### **Scenario:**
